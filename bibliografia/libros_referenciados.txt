@@ -1,0 +1,9 @@
+Libros referenciados:
+
+1. Franco, Sergio. *Diseño con amplificadores operacionales y circuitos integrados analógicos*. McGraw-Hill.
+
+Otros textos a incorporar en futuras citas (según el plan de tesis o bibliografía relacionada):
+
+2. Horowitz, Paul & Hill, Winfield. *El arte de la electrónica*. Cambridge University Press.
+3. Ball, Stuart R. *Analog Interfacing to Embedded Microprocessor Systems*. Newnes.
+4. Allen, Phillip E. & Holberg, Douglas R. *CMOS Analog Circuit Design*.
